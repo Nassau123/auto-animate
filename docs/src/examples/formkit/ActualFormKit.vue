@@ -22,8 +22,8 @@ const submit = () => {
     >
       <FormKit
         type="text"
-        label="Username"
-        help="Pick a new username."
+        label="Nassau"
+        help="Pick a new Sadness."
         validation="required|length:5,15|matches:/[0-9]/"
         validation-visibility="dirty"
         :validation-messages="{
